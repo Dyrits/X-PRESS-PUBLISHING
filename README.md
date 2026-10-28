@@ -16,7 +16,7 @@ The original assignment text is preserved in [ASSIGNMENT.md](ASSIGNMENT.md).
 
 ### Course
 
-Codecademy - Build APIs (capstone project)
+Codecademy - Web Development Skill Path, Building a Persistent API (capstone project)
 
 ### Built With
 
